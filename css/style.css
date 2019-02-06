@@ -106,21 +106,22 @@ a.three:link {color: maroon;}
 a.three:visited {color: maroon;}
 a.three:hover {background: yellow;}
 
-h4{
+/* h4{
     text-align: center;
     color: maroon;
-}
+} */
 
 .jason{
-    color: white;
+    color: black;
 }
 
 .brath{
-    color: white;
+    color: black;
 }
 
 .heading{
-    color: yellow;
+    text-align: center;
+    color: black;
 }
 
 .info{
