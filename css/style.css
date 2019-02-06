@@ -30,7 +30,8 @@ h2 {
 }
 
 h3{
-    color: white;
+    color: yellow;
+    text-align: center;
 }
 
 .logo{
@@ -137,3 +138,7 @@ iframe {
 #ntext {
     color: maroon;
      }
+
+#player{
+    text-align: center;
+}
