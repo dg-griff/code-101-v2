@@ -38,11 +38,11 @@ h3 {
     text-align: center;
 }
 
-.holder {
+/* .holder {
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
+} */
 
 .kraigg {
     display: block;
@@ -111,9 +111,9 @@ a.three:hover {background: yellow;}
     color: maroon;
 } */
 
-.jason{
+/* .jason{
     color: black;
-}
+} */
 
 .brath{
     color: black;
