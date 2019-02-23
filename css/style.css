@@ -42,12 +42,22 @@ body {
     /* background: maroon url("https://images8.alphacoders.com/442/thumb-1920-442882.jpg") no-repeat right bottom; */
 }
 
+.space
+{
+    height: 100px;
+}
 
 .jumbotron {
-    /* background: url("https://a.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1173572_1296x729.jpg&w=920&h=518&scale=crop&cquality=80&location=origin&format=jpg") center center / cover no-repeat; */
-	background-color: maroon;
+    background-color: maroon;
     color: yellow;
-    background-size: 100% 100%;
+    /* background: url("https://a.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1173572_1296x729.jpg&w=920&h=518&scale=crop&cquality=80&location=origin&format=jpg") no-repeat center center fixed;
+   -webkit-background-size: 50% 50%;
+   -moz-background-size: 50% 50%;
+   background-size: 50% 50%;
+   -o-background-size: 50% 50%; */
+    /* background: url("https://a.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1173572_1296x729.jpg&w=920&h=518&scale=crop&cquality=80&location=origin&format=jpg") center center / cover no-repeat; */
+	
+    /* background-size: 100% 100%; */
 }
 
 
