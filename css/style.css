@@ -47,7 +47,7 @@ body {
     /* background: url("https://a.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1173572_1296x729.jpg&w=920&h=518&scale=crop&cquality=80&location=origin&format=jpg") center center / cover no-repeat; */
 	background-color: maroon;
     color: yellow;
-    background-size: contain;
+    background-size: 100% 100%;
 }
 
 
