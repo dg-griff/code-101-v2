@@ -1,7 +1,39 @@
-.navbar-inverse {
+.navbar-custom {
+    background-color: maroon;
+}
+
+.navbar-custom .navbar-brand {
+    color: yellow;
+}
+
+/* a {
+    color: maroon;
+}
+
+a:hover {
+    color: #0f0;
+} */
+
+
+.btn-primary {
+    color: maroon;
+    background-color: yellow;
+    border-color: yellow;
+}
+
+.btn-primary:hover {
+    color: maroon;
     background-color: white;
-    border-color: maroon;
-     }
+    border-color: white;
+}
+
+.custom-toggler.navbar-toggler {
+    border-color: rgb(255,255,0);
+}
+
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,0, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  }
 
 body {
     color: yellow;
@@ -12,8 +44,9 @@ body {
 
 
 .jumbotron {
+    /* background: url("https://a.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1173572_1296x729.jpg&w=920&h=518&scale=crop&cquality=80&location=origin&format=jpg") center center / cover no-repeat; */
 	background-color: maroon;
-	color: yellow;
+    color: yellow;
 }
 
 
